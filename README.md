@@ -1,1 +1,1 @@
-# Blog please go to [https://zc1789284658.github.io/blog](https://zc1789284658.github.io/blog)
+# Blog please go to [https://zhoucheng.vercel.app/](https://zhoucheng.vercel.app/)
